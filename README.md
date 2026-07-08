@@ -4,11 +4,11 @@
 
 Investors spend significant time manually researching companies before making investment decisions. They need to analyze financial reports, market conditions, competitors, and public sentiment from multiple sources, which can be time-consuming and complex.
 
-## 💡 Solution
+## Solution
 
 This project uses an autonomous AI agent that performs company research automatically. The user provides a company name, and the agent gathers relevant information, analyzes the data using AI, and generates an investment research summary.
 
-## ⚙️ How It Works
+## How It Works
 
 1. User enters a company name.
 
@@ -17,12 +17,12 @@ Analyze Tesla
 
 2. The AI agent collects information from multiple sources:
 
-- 📄 Financial reports
-- 📰 Latest company news
-- 📈 Market trends
-- 🏢 Competitor analysis
-- 💬 Social media sentiment
-- 📊 Industry insights
+- Financial reports
+- Latest company news
+- Market trends
+- Competitor analysis
+- Social media sentiment
+- Industry insights
 
 3. The AI analyzes the collected data and generates:
 
