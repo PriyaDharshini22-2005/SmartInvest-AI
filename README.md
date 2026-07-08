@@ -80,7 +80,7 @@ Further Analysis Needed
 ##  Tech Stack
 
 ### AI Agent Framework
-- LangChain / LangGraph / CrewAI
+- LangChain
 
 ### Large Language Model
 - Google Gemini API
