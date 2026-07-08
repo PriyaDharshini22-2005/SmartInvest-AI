@@ -77,7 +77,7 @@ Recommendation:
 Further Analysis Needed
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### AI Agent Framework
 - LangChain / LangGraph / CrewAI
