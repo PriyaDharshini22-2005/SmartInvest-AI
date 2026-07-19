@@ -50,7 +50,7 @@ Analyze Tesla
   - Competition
   - Market changes
   - Financial challenges
-
+    
 ### AI-Based Recommendation
 - Provides an investment summary based on collected insights.
 
